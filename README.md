@@ -1,4 +1,3 @@
-# eventex
 Eventex
 =======
 
